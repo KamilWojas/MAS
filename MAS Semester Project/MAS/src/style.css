@@ -1,0 +1,15 @@
+.custom-button {
+    -fx-background-color: #4CAF50; /* Zielone tło */
+    -fx-text-fill: white; /* Biały tekst */
+    -fx-pref-width: 150px; /* Szerokość przycisku */
+    -fx-pref-height: 50px; /* Wysokość przycisku */
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.8), 10, 0, 0, 2); /* Efekt cienia */
+}
+
+.logout-button {
+    -fx-background-color: #F44336; /* Czerwone tło */
+    -fx-text-fill: white; /* Biały tekst */
+    -fx-pref-width: 150px; /* Szerokość przycisku */
+    -fx-pref-height: 50px; /* Wysokość przycisku */
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.8), 10, 0, 0, 2); /* Efekt cienia */
+}
